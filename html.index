@@ -1,9 +1,9 @@
 
 <html>
 	<head>
-		<title>Copyright</title>
+		<title>WebEd</title>
+		<meta charset="utf-8"/>
+		<link rel="stylesheet"
+		type="text/css"href="main.css">
 	</head>
-	<body>
-		<p>copyright is a good thing for inventors because it benefits them alot.Copyright can help stop other people from stealing the inventor's product and givning them full rights to their inventions. Without copyright laws inventors could potentially get their idea's stolent from othere people and therefore they will not make money off of the product.</p>
-	</body>
 </html
